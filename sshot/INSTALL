@@ -1,0 +1,7 @@
+apt install tesseract-ocr-eng
+apt install python3-tesserocr
+
+pip3 install numpy opencv-python
+pip3 install pytesseract
+pip3 install pyperclip
+pip3 install pyuserinput
